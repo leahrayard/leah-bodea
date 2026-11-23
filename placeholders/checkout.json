@@ -1,0 +1,22 @@
+{
+  "data": {
+    "total": 2,
+    "offset": 0,
+    "limit": 2,
+    "data": [
+      {
+        "Key": "Checkout.Summary.heading",
+        "Value": "Your Cart ({count})"
+      },
+      {
+        "Key": "Checkout.Summary.Edit",
+        "Value": "Edit"
+      }
+    ]
+  },
+  ":names": [
+    "data"
+  ],
+  ":version": 3,
+  ":type": "multi-sheet"
+}
